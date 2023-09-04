@@ -4,7 +4,7 @@
 ## Description
 3,506 Hindi OCR Images Data - Images with Annotation and Transcription. The data includes 2,056 images of natural scenes, 1,103 Internet images and 347 document images. For line-level content annotation, line-level quadrilateral bounding box annotation and test transcription was adpoted; for column-level content annotation, column-level quadrilateral bounding box annotation and text transcription was adpoted. The data can be used for tasks such as Hindi character recognition in multiple scenes.
 
-For more details, please refer to the link: https://bit.ly/3DO971o
+For more details, please refer to the link: https://www.nexdata.ai/datasets/1058?source=Github
 
 ## Data size
 3,506 OCR images, including 2,056 images of natural scenes, 1,103 Internet images, 347 document images
